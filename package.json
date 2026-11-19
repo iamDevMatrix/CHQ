@@ -1,0 +1,35 @@
+{
+  "name": "chq-digital-menu",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "build:demo": "tsc && vite build --mode demo",
+    "preview": "vite preview",
+    "seed:sql": "node scripts/gen-seed-sql.mjs > supabase/seed.sql",
+    "typecheck": "tsc --noEmit",
+    "test:e2e": "npm run build:demo && npm run build:live && playwright test",
+    "test:db": "tests/db/run.sh",
+    "test": "npm run typecheck && npm run test:e2e",
+    "size": "node scripts/check-size.mjs",
+    "seed:check": "node scripts/gen-seed-sql.mjs | diff -q - supabase/seed.sql",
+    "build:live": "vite build --mode live",
+    "test:supabase": "scripts/test-supabase.sh"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.65.0",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21",
+    "vite-plugin-singlefile": "^2.3.4"
+  },
+  "private": true,
+  "type": "module"
+}

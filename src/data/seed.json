@@ -1,0 +1,797 @@
+{
+  "outlet": {
+    "slug": "chq-capital",
+    "name": "CHQ Capital",
+    "tagline": "Coffee. Converse. Celebrate.",
+    "phone": "9769667799",
+    "email": "info@chqhub.in",
+    "announcement": "The Rooftop Café is now open at Jain Sadguru Capital Park",
+    "address": "Rooftop, Jain Sadguru Capital Park",
+    "about": "CHQ Capital is the rooftop café by CHQ, The Café Head Quarters. Chai, coffee, shakes and quick bites, made fresh for the people of Capital Park.",
+    "partnerText": "Want to bring CHQ or Chai City to your city, office or campus? Leave your details and our team will get in touch.",
+    "websiteUrl": "https://chaicity.in",
+    "websiteLabel": "Chai City"
+  },
+  "categories": [
+    {
+      "name": "Tea & Coffee",
+      "sections": [
+        {
+          "name": "Tea",
+          "size": "110 ml",
+          "items": [
+            [
+              "Hindustani Chai",
+              29,
+              "veg"
+            ],
+            [
+              "Malai Chai",
+              39,
+              "veg"
+            ],
+            [
+              "Black Tea",
+              29,
+              "veg"
+            ],
+            [
+              "Green Tea",
+              29,
+              "veg"
+            ],
+            [
+              "Lemon Tea",
+              29,
+              "veg"
+            ],
+            [
+              "Qawa Tea",
+              29,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Coffee",
+          "size": "130 ml",
+          "items": [
+            [
+              "Filter Coffee",
+              39,
+              "veg"
+            ],
+            [
+              "Black Coffee",
+              39,
+              "veg"
+            ],
+            [
+              "Instant Coffee",
+              39,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Nostalgic",
+          "size": "150 ml",
+          "items": [
+            [
+              "Hot Chocolate",
+              69,
+              "veg"
+            ],
+            [
+              "Badam Milk (Hot)",
+              69,
+              "veg"
+            ],
+            [
+              "Milo",
+              69,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Accompaniments",
+          "items": [
+            [
+              "Rusk",
+              5,
+              "veg"
+            ],
+            [
+              "Biscuits",
+              9,
+              "veg"
+            ],
+            [
+              "Samosa",
+              29,
+              "veg"
+            ],
+            [
+              "Maska Bun",
+              59,
+              "veg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ice Coffee",
+      "sections": [
+        {
+          "name": "Ice Coffee",
+          "size": "200 ml",
+          "items": [
+            [
+              "Classic Ice Coffee",
+              99,
+              "veg"
+            ],
+            [
+              "Mocha Ice Coffee",
+              99,
+              "veg"
+            ],
+            [
+              "Vanilla Ice Coffee",
+              99,
+              "veg"
+            ],
+            [
+              "Hazelnut Ice Coffee",
+              99,
+              "veg"
+            ],
+            [
+              "Caramel Ice Coffee",
+              99,
+              "veg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shakes",
+      "sections": [
+        {
+          "name": "Shakes",
+          "size": "250 ml",
+          "items": [
+            [
+              "Strawberry Shake",
+              149,
+              "veg"
+            ],
+            [
+              "Mango Shake",
+              149,
+              "veg"
+            ],
+            [
+              "Caramel Shake",
+              149,
+              "veg"
+            ],
+            [
+              "Mocha Shake",
+              149,
+              "veg"
+            ],
+            [
+              "Mixed Berry Shake",
+              159,
+              "veg"
+            ],
+            [
+              "Badam Royale Shake",
+              169,
+              "veg"
+            ],
+            [
+              "Kesar Pista Shake",
+              169,
+              "veg"
+            ],
+            [
+              "Oreo Shake",
+              169,
+              "veg"
+            ],
+            [
+              "Kitkat Shake",
+              169,
+              "veg"
+            ],
+            [
+              "Chocolate Shake",
+              189,
+              "veg"
+            ],
+            [
+              "Brownie Shake",
+              189,
+              "veg"
+            ],
+            [
+              "Biscoff Shake",
+              189,
+              "veg"
+            ],
+            [
+              "Coffee Shake (Cold)",
+              189,
+              "veg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mojitos",
+      "sections": [
+        {
+          "name": "Mojitos",
+          "items": [
+            [
+              "Blue Ocean Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Watermelon Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Lemon Tea Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Virgin Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Peach Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Blueberry Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Cucumber Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Coconut Mojito",
+              99,
+              "veg"
+            ],
+            [
+              "Strawberry Mojito",
+              99,
+              "veg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Juices, Lassi & Soda",
+      "sections": [
+        {
+          "name": "Fresh Juices",
+          "size": "200 ml",
+          "items": [
+            [
+              "Mosambi",
+              89,
+              "veg"
+            ],
+            [
+              "Mosambi + Orange",
+              99,
+              "veg"
+            ],
+            [
+              "Mosambi + Pineapple",
+              99,
+              "veg"
+            ],
+            [
+              "Mosambi + Watermelon",
+              99,
+              "veg"
+            ],
+            [
+              "Fresh Fruit Tango",
+              99,
+              "veg"
+            ],
+            [
+              "ABC Juice",
+              129,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Lassi",
+          "items": [
+            [
+              "Buttermilk",
+              59,
+              "veg"
+            ],
+            [
+              "Rose Lassi",
+              79,
+              "veg"
+            ],
+            [
+              "Sweet Lassi",
+              79,
+              "veg"
+            ],
+            [
+              "Salt Lassi",
+              79,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Soda",
+          "items": [
+            [
+              "Fresh Lime Soda (Sweet)",
+              59,
+              "veg"
+            ],
+            [
+              "Fresh Lime Soda (Salt)",
+              59,
+              "veg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quick Bites",
+      "sections": [
+        {
+          "name": "French Fries",
+          "items": [
+            [
+              "Classic Fries",
+              79,
+              "veg"
+            ],
+            [
+              "Peri Peri Fries",
+              89,
+              "veg"
+            ],
+            [
+              "Masala Fries",
+              89,
+              "veg"
+            ],
+            [
+              "Cheese Fries",
+              99,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Puff",
+          "items": [
+            [
+              "Veg Puff",
+              29,
+              "veg"
+            ],
+            [
+              "Egg Puff",
+              29,
+              "egg"
+            ],
+            [
+              "Paneer Puff",
+              39,
+              "veg"
+            ],
+            [
+              "Chicken Puff",
+              49,
+              "nonveg"
+            ]
+          ]
+        },
+        {
+          "name": "Veg",
+          "items": [
+            [
+              "Veg Nuggets",
+              79,
+              "veg",
+              "",
+              "4 pcs"
+            ],
+            [
+              "Cheese Corn Balls",
+              79,
+              "veg",
+              "",
+              "6 pcs"
+            ],
+            [
+              "Potato Smiles",
+              89,
+              "veg",
+              "",
+              "4 pcs"
+            ],
+            [
+              "Chilli Garlic Potato Bites",
+              89,
+              "veg",
+              "",
+              "8 pcs"
+            ],
+            [
+              "Spring Rolls",
+              89,
+              "veg",
+              "",
+              "4 pcs"
+            ],
+            [
+              "Jalapeno Poppers",
+              99,
+              "veg",
+              "",
+              "8 pcs"
+            ]
+          ]
+        },
+        {
+          "name": "Chicken",
+          "items": [
+            [
+              "Chicken Nuggets",
+              109,
+              "nonveg",
+              "",
+              "4 pcs"
+            ],
+            [
+              "Chicken Wings",
+              129,
+              "nonveg",
+              "",
+              "4 pcs"
+            ]
+          ]
+        },
+        {
+          "name": "Momos",
+          "items": [
+            [
+              "Veg Momos",
+              99,
+              "veg"
+            ],
+            [
+              "Paneer Momos",
+              129,
+              "veg"
+            ],
+            [
+              "Chicken Momos",
+              129,
+              "nonveg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Eggs & Breads",
+      "sections": [
+        {
+          "name": "Omelettes",
+          "items": [
+            [
+              "Classic Omelette",
+              59,
+              "egg"
+            ],
+            [
+              "Cheese Omelette",
+              79,
+              "egg"
+            ],
+            [
+              "Masala Omelette",
+              79,
+              "egg"
+            ]
+          ]
+        },
+        {
+          "name": "Bread Omelettes",
+          "items": [
+            [
+              "Classic Bread Omelette",
+              79,
+              "egg"
+            ],
+            [
+              "Cheese Bread Omelette",
+              99,
+              "egg"
+            ],
+            [
+              "Masala Bread Omelette",
+              99,
+              "egg"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Frankies & Sandwiches",
+      "sections": [
+        {
+          "name": "Frankies",
+          "items": [
+            [
+              "Veg Frankie",
+              99,
+              "veg"
+            ],
+            [
+              "Egg Frankie",
+              109,
+              "egg"
+            ],
+            [
+              "Paneer Frankie",
+              129,
+              "veg"
+            ],
+            [
+              "Chicken Frankie",
+              129,
+              "nonveg"
+            ],
+            [
+              "Extra Cheese (Frankie)",
+              29,
+              "veg",
+              "Add-on"
+            ]
+          ]
+        },
+        {
+          "name": "Grilled Sandwich",
+          "items": [
+            [
+              "Veg Grilled Sandwich",
+              109,
+              "veg"
+            ],
+            [
+              "Egg Grilled Sandwich",
+              129,
+              "egg"
+            ],
+            [
+              "Paneer Grilled Sandwich",
+              139,
+              "veg"
+            ],
+            [
+              "Chicken Grilled Sandwich",
+              139,
+              "nonveg"
+            ],
+            [
+              "Egg Chicken Grilled Sandwich",
+              159,
+              "nonveg"
+            ],
+            [
+              "Extra Cheese (Sandwich)",
+              29,
+              "veg",
+              "Add-on"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pizza & Burger",
+      "sections": [
+        {
+          "name": "Pizza",
+          "size": "8 inch",
+          "items": [
+            [
+              "Veg Pizza",
+              149,
+              "veg"
+            ],
+            [
+              "Paneer Pizza",
+              189,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Burger",
+          "items": [
+            [
+              "Veg Burger",
+              109,
+              "veg"
+            ],
+            [
+              "Aloo Tikki Burger",
+              109,
+              "veg"
+            ],
+            [
+              "Egg Burger",
+              129,
+              "egg"
+            ],
+            [
+              "Paneer Burger",
+              159,
+              "veg"
+            ],
+            [
+              "Chicken Burger",
+              159,
+              "nonveg"
+            ],
+            [
+              "Extra Cheese (Burger)",
+              29,
+              "veg",
+              "Add-on"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mains & More",
+      "sections": [
+        {
+          "name": "Maggi",
+          "items": [
+            [
+              "Veg Maggi",
+              69,
+              "veg"
+            ],
+            [
+              "Cheese Maggi",
+              79,
+              "veg"
+            ],
+            [
+              "Masala Egg Maggi",
+              79,
+              "egg"
+            ]
+          ]
+        },
+        {
+          "name": "Biryani",
+          "items": [
+            [
+              "Veg Biryani",
+              149,
+              "veg"
+            ],
+            [
+              "Egg Biryani",
+              169,
+              "egg"
+            ],
+            [
+              "Chicken Biryani",
+              229,
+              "nonveg"
+            ]
+          ]
+        },
+        {
+          "name": "Vada Pav",
+          "items": [
+            [
+              "Classic Vada Pav",
+              59,
+              "veg"
+            ]
+          ]
+        },
+        {
+          "name": "Pav Bhaji",
+          "items": [
+            [
+              "Classic Pav Bhaji",
+              99,
+              "veg"
+            ],
+            [
+              "Extra Cheese (Pav Bhaji)",
+              29,
+              "veg",
+              "Add-on"
+            ],
+            [
+              "Extra Butter (Pav Bhaji)",
+              29,
+              "veg",
+              "Add-on"
+            ],
+            [
+              "Extra Pav",
+              29,
+              "veg",
+              "Add-on"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Desserts",
+      "sections": [
+        {
+          "name": "Desserts",
+          "items": [
+            [
+              "Brownie",
+              79,
+              "veg"
+            ],
+            [
+              "Chocolava",
+              89,
+              "veg",
+              "All flavours"
+            ],
+            [
+              "Brownie with Ice Cream",
+              129,
+              "veg"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}
